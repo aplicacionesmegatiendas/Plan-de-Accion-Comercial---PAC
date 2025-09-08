@@ -1,0 +1,482 @@
+C:\Users\dcarmona\Documents\Visual Studio 2017\Proyectos\PlanAcuerdoComercial\PlanAcuerdoComercial\bin\Debug\PlanAcuerdoComercial.exe.config
+C:\Users\dcarmona\Documents\Visual Studio 2017\Proyectos\PlanAcuerdoComercial\PlanAcuerdoComercial\bin\Debug\PlanAcuerdoComercial.exe
+C:\Users\dcarmona\Documents\Visual Studio 2017\Proyectos\PlanAcuerdoComercial\PlanAcuerdoComercial\bin\Debug\PlanAcuerdoComercial.pdb
+C:\Users\dcarmona\Documents\Visual Studio 2017\Proyectos\PlanAcuerdoComercial\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.csprojAssemblyReference.cache
+C:\Users\dcarmona\Documents\Visual Studio 2017\Proyectos\PlanAcuerdoComercial\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Properties.Resources.resources
+C:\Users\dcarmona\Documents\Visual Studio 2017\Proyectos\PlanAcuerdoComercial\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.csproj.GenerateResource.cache
+C:\Users\dcarmona\Documents\Visual Studio 2017\Proyectos\PlanAcuerdoComercial\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.csproj.CoreCompileInputs.cache
+C:\Users\dcarmona\Documents\Visual Studio 2017\Proyectos\PlanAcuerdoComercial\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.exe
+C:\Users\dcarmona\Documents\Visual Studio 2017\Proyectos\PlanAcuerdoComercial\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.pdb
+C:\Users\dcarmona\Documents\Visual Studio 2017\Proyectos\PlanAcuerdoComercial\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmEditarPermiso.resources
+C:\Users\dcarmona\Documents\Visual Studio 2017\Proyectos\PlanAcuerdoComercial\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmPermisos.resources
+C:\Users\dcarmona\Documents\Visual Studio 2017\Proyectos\PlanAcuerdoComercial\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmPpal.resources
+C:\Users\dcarmona\Documents\Visual Studio 2017\Proyectos\PlanAcuerdoComercial\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmEditarRol.resources
+C:\Users\dcarmona\Documents\Visual Studio 2017\Proyectos\PlanAcuerdoComercial\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmRoles.resources
+C:\Users\dcarmona\Documents\Visual Studio 2017\Proyectos\PlanAcuerdoComercial\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmEditarUsuario.resources
+C:\Users\dcarmona\Documents\Visual Studio 2017\Proyectos\PlanAcuerdoComercial\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmUsuarios.resources
+C:\Users\dcarmona\Documents\Visual Studio 2017\Proyectos\PlanAcuerdoComercial\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmSesion.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PlanAcuerdoComercial\PlanAcuerdoComercial\bin\Debug\PlanAcuerdoComercial.exe.config
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PlanAcuerdoComercial\PlanAcuerdoComercial\bin\Debug\PlanAcuerdoComercial.exe
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PlanAcuerdoComercial\PlanAcuerdoComercial\bin\Debug\PlanAcuerdoComercial.pdb
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PlanAcuerdoComercial\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.csprojAssemblyReference.cache
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PlanAcuerdoComercial\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmClusters.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PlanAcuerdoComercial\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmEditarPermiso.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PlanAcuerdoComercial\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmEditarRol.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PlanAcuerdoComercial\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmEditarUsuario.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PlanAcuerdoComercial\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmPermisos.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PlanAcuerdoComercial\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmPpal.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PlanAcuerdoComercial\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmRoles.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PlanAcuerdoComercial\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmSesion.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PlanAcuerdoComercial\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmUsuarios.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PlanAcuerdoComercial\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Properties.Resources.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PlanAcuerdoComercial\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.csproj.GenerateResource.cache
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PlanAcuerdoComercial\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.csproj.CoreCompileInputs.cache
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PlanAcuerdoComercial\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.exe
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PlanAcuerdoComercial\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.pdb
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PlanAcuerdoComercial\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmEditarCluster.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PlanAcuerdoComercial\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmTipoComunicacion.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PlanAcuerdoComercial\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmEditarTipoComunicacion.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PlanAcuerdoComercial\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmEditarTipoDinamica.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PlanAcuerdoComercial\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmTipoDinamica.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PlanAcuerdoComercial\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmEditarFormato.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PlanAcuerdoComercial\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmFormatos.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial\PlanAcuerdoComercial\bin\Debug\PlanAcuerdoComercial.exe.config
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial\PlanAcuerdoComercial\bin\Debug\PlanAcuerdoComercial.exe
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial\PlanAcuerdoComercial\bin\Debug\PlanAcuerdoComercial.pdb
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.csprojAssemblyReference.cache
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmClusters.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmEditarCluster.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmEditarFormato.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmEditarPermiso.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmEditarRol.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmEditarTipoComunicacion.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmEditarTipoDinamica.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmEditarUsuario.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmFormatos.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmPermisos.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmPpal.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmRoles.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmSesion.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmTipoComunicacion.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmTipoDinamica.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmUsuarios.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Properties.Resources.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.csproj.GenerateResource.cache
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.csproj.CoreCompileInputs.cache
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.exe
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.pdb
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmEditarTipoActividad.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmRetroplanning.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmTipoActividad.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230316\PlanAcuerdoComercial\bin\Debug\PlanAcuerdoComercial.exe.config
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230316\PlanAcuerdoComercial\bin\Debug\PlanAcuerdoComercial.exe
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230316\PlanAcuerdoComercial\bin\Debug\PlanAcuerdoComercial.pdb
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230316\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmClusters.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230316\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmEditarCluster.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230316\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmEditarFormato.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230316\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmEditarPermiso.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230316\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmEditarRol.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230316\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmEditarTipoActividad.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230316\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmEditarTipoComunicacion.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230316\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmEditarTipoDinamica.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230316\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmEditarUsuario.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230316\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmFormatos.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230316\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmPermisos.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230316\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmPpal.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230316\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmRetroplanning.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230316\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmRoles.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230316\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmSesion.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230316\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmTipoActividad.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230316\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmTipoComunicacion.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230316\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmTipoDinamica.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230316\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmUsuarios.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230316\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Properties.Resources.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230316\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.csproj.GenerateResource.cache
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230316\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.csproj.CoreCompileInputs.cache
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230316\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.exe
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230316\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.pdb
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230316\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmEditarRetroplanning.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230316\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmCargarRetroplanning.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230316\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmDescuentosRetroplanning.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230316\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.csproj.AssemblyReference.cache
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230316\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.csproj.SuggestedBindingRedirects.cache
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230316\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmPrecios.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230316\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmReporteEstado.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230316\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmNegociadoresSinDescuento.resources
+C:\Users\dcarmona\Desktop\PlanAcuerdoComercial_20230502\PlanAcuerdoComercial\bin\Debug\PlanAcuerdoComercial.exe.config
+C:\Users\dcarmona\Desktop\PlanAcuerdoComercial_20230502\PlanAcuerdoComercial\bin\Debug\PlanAcuerdoComercial.exe
+C:\Users\dcarmona\Desktop\PlanAcuerdoComercial_20230502\PlanAcuerdoComercial\bin\Debug\PlanAcuerdoComercial.pdb
+C:\Users\dcarmona\Desktop\PlanAcuerdoComercial_20230502\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmCargarRetroplanning.resources
+C:\Users\dcarmona\Desktop\PlanAcuerdoComercial_20230502\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmClusters.resources
+C:\Users\dcarmona\Desktop\PlanAcuerdoComercial_20230502\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmDescuentosRetroplanning.resources
+C:\Users\dcarmona\Desktop\PlanAcuerdoComercial_20230502\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmEditarCluster.resources
+C:\Users\dcarmona\Desktop\PlanAcuerdoComercial_20230502\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmEditarFormato.resources
+C:\Users\dcarmona\Desktop\PlanAcuerdoComercial_20230502\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmEditarPermiso.resources
+C:\Users\dcarmona\Desktop\PlanAcuerdoComercial_20230502\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmEditarRetroplanning.resources
+C:\Users\dcarmona\Desktop\PlanAcuerdoComercial_20230502\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmEditarRol.resources
+C:\Users\dcarmona\Desktop\PlanAcuerdoComercial_20230502\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmEditarTipoComunicacion.resources
+C:\Users\dcarmona\Desktop\PlanAcuerdoComercial_20230502\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmEditarTipoDinamica.resources
+C:\Users\dcarmona\Desktop\PlanAcuerdoComercial_20230502\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmEditarUsuario.resources
+C:\Users\dcarmona\Desktop\PlanAcuerdoComercial_20230502\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmFormatos.resources
+C:\Users\dcarmona\Desktop\PlanAcuerdoComercial_20230502\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmNegociadoresSinDescuento.resources
+C:\Users\dcarmona\Desktop\PlanAcuerdoComercial_20230502\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmPermisos.resources
+C:\Users\dcarmona\Desktop\PlanAcuerdoComercial_20230502\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmPpal.resources
+C:\Users\dcarmona\Desktop\PlanAcuerdoComercial_20230502\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmPrecios.resources
+C:\Users\dcarmona\Desktop\PlanAcuerdoComercial_20230502\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmReporteEstado.resources
+C:\Users\dcarmona\Desktop\PlanAcuerdoComercial_20230502\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmRetroplanning.resources
+C:\Users\dcarmona\Desktop\PlanAcuerdoComercial_20230502\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmRoles.resources
+C:\Users\dcarmona\Desktop\PlanAcuerdoComercial_20230502\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmSesion.resources
+C:\Users\dcarmona\Desktop\PlanAcuerdoComercial_20230502\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmTipoComunicacion.resources
+C:\Users\dcarmona\Desktop\PlanAcuerdoComercial_20230502\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmTipoDinamica.resources
+C:\Users\dcarmona\Desktop\PlanAcuerdoComercial_20230502\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmUsuarios.resources
+C:\Users\dcarmona\Desktop\PlanAcuerdoComercial_20230502\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Properties.Resources.resources
+C:\Users\dcarmona\Desktop\PlanAcuerdoComercial_20230502\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.csproj.GenerateResource.cache
+C:\Users\dcarmona\Desktop\PlanAcuerdoComercial_20230502\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.csproj.CoreCompileInputs.cache
+C:\Users\dcarmona\Desktop\PlanAcuerdoComercial_20230502\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.exe
+C:\Users\dcarmona\Desktop\PlanAcuerdoComercial_20230502\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.pdb
+C:\Users\dcarmona\Desktop\PlanAcuerdoComercial_20230502\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.csproj.AssemblyReference.cache
+C:\Users\dcarmona\Desktop\PlanAcuerdoComercial_20230502\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.csproj.SuggestedBindingRedirects.cache
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230502\PlanAcuerdoComercial\bin\Debug\PlanAcuerdoComercial.exe.config
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230502\PlanAcuerdoComercial\bin\Debug\PlanAcuerdoComercial.exe
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230502\PlanAcuerdoComercial\bin\Debug\PlanAcuerdoComercial.pdb
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230502\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.csproj.AssemblyReference.cache
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230502\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.csproj.SuggestedBindingRedirects.cache
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230502\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmCargarRetroplanning.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230502\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmClusters.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230502\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmDescuentosRetroplanning.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230502\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmEditarCluster.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230502\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmEditarFormato.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230502\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmEditarPermiso.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230502\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmEditarRetroplanning.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230502\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmEditarRol.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230502\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmEditarTipoComunicacion.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230502\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmEditarTipoDinamica.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230502\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmEditarUsuario.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230502\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmFormatos.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230502\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmNegociadoresSinDescuento.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230502\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmPermisos.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230502\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmPpal.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230502\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmPrecios.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230502\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmReporteEstado.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230502\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmRetroplanning.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230502\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmRoles.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230502\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmSesion.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230502\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmTipoComunicacion.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230502\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmTipoDinamica.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230502\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmUsuarios.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230502\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Properties.Resources.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230502\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.csproj.GenerateResource.cache
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230502\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.csproj.CoreCompileInputs.cache
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230502\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.exe
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230502\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.pdb
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230510\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.csproj.AssemblyReference.cache
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230510\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.csproj.SuggestedBindingRedirects.cache
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230510\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmCargarRetroplanning.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230510\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmClusters.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230510\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmDescuentosRetroplanning.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230510\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmEditarCluster.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230510\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmEditarPermiso.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230510\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmEditarRetroplanning.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230510\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmEditarRol.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230510\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmEditarTipoComunicacion.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230510\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmEditarTipoDinamica.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230510\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmEditarUsuario.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230510\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmNegociadoresSinDescuento.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230510\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmPermisos.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230510\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmPpal.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230510\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmPrecios.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230510\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmReporteEstado.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230510\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmRetroplanning.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230510\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmRoles.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230510\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmSesion.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230510\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmTipoComunicacion.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230510\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmTipoDinamica.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230510\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmUsuarios.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230510\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Properties.Resources.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230510\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.csproj.GenerateResource.cache
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230510\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.csproj.CoreCompileInputs.cache
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230510\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.exe
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230510\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.pdb
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230510\PlanAcuerdoComercial\bin\Debug\PlanAcuerdoComercial.exe.config
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230510\PlanAcuerdoComercial\bin\Debug\PlanAcuerdoComercial.exe
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230510\PlanAcuerdoComercial\bin\Debug\PlanAcuerdoComercial.pdb
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230513\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.csproj.AssemblyReference.cache
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230513\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.csproj.SuggestedBindingRedirects.cache
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230513\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmCargarRetroplanning.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230513\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmClusters.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230513\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmCorreosNotificacionDescuento.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230513\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmDescuentosRetroplanning.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230513\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmEditarCluster.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230513\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmEditarPermiso.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230513\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmEditarRetroplanning.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230513\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmEditarRol.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230513\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmEditarTipoComunicacion.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230513\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmEditarTipoDinamica.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230513\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmEditarUsuario.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230513\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmNegociadoresSinDescuento.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230513\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmPermisos.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230513\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmPpal.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230513\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmPrecios.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230513\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmReporteEstado.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230513\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmRetroplanning.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230513\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmRoles.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230513\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmSesion.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230513\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmTipoComunicacion.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230513\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmTipoDinamica.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230513\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmUsuarios.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230513\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Properties.Resources.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230513\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.csproj.GenerateResource.cache
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230513\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.csproj.CoreCompileInputs.cache
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230513\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.exe
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230513\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.pdb
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230513\PlanAcuerdoComercial\bin\Debug\PlanAcuerdoComercial.exe.config
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230513\PlanAcuerdoComercial\bin\Debug\PlanAcuerdoComercial.exe
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230513\PlanAcuerdoComercial\bin\Debug\PlanAcuerdoComercial.pdb
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230513\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmEditarCorreosNotificacionDescuento.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230513\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmDescuentoDirecto.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230513\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmCargarDescuentoDirecto.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230513\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmEditarDescuentoDirecto.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230609\PlanAcuerdoComercial\bin\Debug\PlanAcuerdoComercial.exe.config
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230609\PlanAcuerdoComercial\bin\Debug\PlanAcuerdoComercial.exe
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230609\PlanAcuerdoComercial\bin\Debug\PlanAcuerdoComercial.pdb
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230609\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmCargarDescuentoDirecto.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230609\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmCargarRetroplanning.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230609\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmClusters.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230609\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmCorreosNotificacionDescuento.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230609\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmDescuentoDirecto.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230609\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmDescuentosRetroplanning.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230609\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmEditarCluster.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230609\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmEditarCorreosNotificacionDescuento.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230609\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmEditarDescuentoDirecto.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230609\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmEditarPermiso.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230609\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmEditarRetroplanning.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230609\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmEditarRol.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230609\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmEditarTipoComunicacion.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230609\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmEditarTipoDinamica.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230609\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmEditarUsuario.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230609\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmNegociadoresSinDescuento.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230609\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmPermisos.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230609\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmPpal.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230609\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmPrecios.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230609\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmReporteEstado.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230609\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmRetroplanning.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230609\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmRoles.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230609\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmSesion.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230609\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmTipoComunicacion.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230609\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmTipoDinamica.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230609\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmUsuarios.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230609\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Properties.Resources.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230609\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.csproj.GenerateResource.cache
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230609\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.csproj.CoreCompileInputs.cache
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230609\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.exe
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230609\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.pdb
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230609\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmEditarTipoExhibicion.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230609\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmTipoExhibicion.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230609\PlanAcuerdoComercial\bin\Debug\ClosedXML.dll
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230609\PlanAcuerdoComercial\bin\Debug\DocumentFormat.OpenXml.dll
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230609\PlanAcuerdoComercial\bin\Debug\ExcelNumberFormat.dll
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230609\PlanAcuerdoComercial\bin\Debug\ClosedXML.pdb
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230609\PlanAcuerdoComercial\bin\Debug\ClosedXML.xml
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230609\PlanAcuerdoComercial\bin\Debug\DocumentFormat.OpenXml.xml
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230609\PlanAcuerdoComercial\bin\Debug\ExcelNumberFormat.xml
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230609\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.csproj.CopyComplete
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230609\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmReporteOperaciones.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230609\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmRechazarDescuento.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230609\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.csproj.AssemblyReference.cache
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230609\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.csproj.SuggestedBindingRedirects.cache
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230711\PlanAcuerdoComercial\bin\Debug\PlanAcuerdoComercial.exe.config
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230711\PlanAcuerdoComercial\bin\Debug\PlanAcuerdoComercial.exe
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230711\PlanAcuerdoComercial\bin\Debug\PlanAcuerdoComercial.pdb
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230711\PlanAcuerdoComercial\bin\Debug\ClosedXML.dll
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230711\PlanAcuerdoComercial\bin\Debug\DocumentFormat.OpenXml.dll
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230711\PlanAcuerdoComercial\bin\Debug\ExcelNumberFormat.dll
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230711\PlanAcuerdoComercial\bin\Debug\ClosedXML.pdb
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230711\PlanAcuerdoComercial\bin\Debug\ClosedXML.xml
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230711\PlanAcuerdoComercial\bin\Debug\DocumentFormat.OpenXml.xml
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230711\PlanAcuerdoComercial\bin\Debug\ExcelNumberFormat.xml
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230711\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.csproj.AssemblyReference.cache
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230711\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.csproj.SuggestedBindingRedirects.cache
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230711\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmCargarDescuentoDirecto.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230711\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmCargarRetroplanning.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230711\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmClusters.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230711\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmCorreosNotificacionDescuento.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230711\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmDescuentoDirecto.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230711\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmDescuentosRetroplanning.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230711\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmEditarCluster.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230711\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmEditarCorreosNotificacionDescuento.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230711\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmEditarDescuentoDirecto.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230711\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmEditarPermiso.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230711\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmEditarRetroplanning.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230711\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmEditarRol.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230711\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmEditarTipoComunicacion.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230711\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmEditarTipoDinamica.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230711\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmEditarTipoExhibicion.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230711\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmEditarUsuario.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230711\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmNegociadoresSinDescuento.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230711\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmPermisos.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230711\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmPpal.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230711\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmPrecios.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230711\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmRechazarDescuento.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230711\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmReporteEstado.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230711\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmReporteOperaciones.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230711\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmRetroplanning.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230711\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmRoles.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230711\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmSesion.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230711\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmTipoComunicacion.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230711\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmTipoDinamica.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230711\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmTipoExhibicion.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230711\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmUsuarios.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230711\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Properties.Resources.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230711\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.csproj.GenerateResource.cache
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230711\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.csproj.CoreCompileInputs.cache
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230711\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.csproj.CopyComplete
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230711\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.exe
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230711\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.pdb
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230711\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmCentrosOperacionListaPrecios.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230717\PlanAcuerdoComercial\bin\Debug\PlanAcuerdoComercial.exe.config
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230717\PlanAcuerdoComercial\bin\Debug\PlanAcuerdoComercial.exe
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230717\PlanAcuerdoComercial\bin\Debug\PlanAcuerdoComercial.pdb
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230717\PlanAcuerdoComercial\bin\Debug\ClosedXML.dll
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230717\PlanAcuerdoComercial\bin\Debug\DocumentFormat.OpenXml.dll
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230717\PlanAcuerdoComercial\bin\Debug\ExcelNumberFormat.dll
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230717\PlanAcuerdoComercial\bin\Debug\ClosedXML.pdb
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230717\PlanAcuerdoComercial\bin\Debug\ClosedXML.xml
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230717\PlanAcuerdoComercial\bin\Debug\DocumentFormat.OpenXml.xml
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230717\PlanAcuerdoComercial\bin\Debug\ExcelNumberFormat.xml
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230717\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.csproj.AssemblyReference.cache
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230717\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.csproj.SuggestedBindingRedirects.cache
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230717\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmCargarDescuentoDirecto.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230717\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmCargarRetroplanning.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230717\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmCentrosOperacionListaPrecios.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230717\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmClusters.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230717\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmCorreosNotificacionDescuento.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230717\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmDescuentoDirecto.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230717\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmDescuentosRetroplanning.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230717\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmEditarCluster.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230717\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmEditarCorreosNotificacionDescuento.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230717\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmEditarDescuentoDirecto.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230717\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmEditarPermiso.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230717\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmEditarRetroplanning.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230717\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmEditarRol.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230717\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmEditarTipoComunicacion.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230717\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmEditarTipoDinamica.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230717\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmEditarTipoExhibicion.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230717\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmEditarUsuario.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230717\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmNegociadoresSinDescuento.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230717\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmPermisos.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230717\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmPpal.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230717\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmPrecios.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230717\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmRechazarDescuento.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230717\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmReporteEstado.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230717\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmReporteOperaciones.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230717\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmRetroplanning.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230717\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmRoles.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230717\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmSesion.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230717\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmTipoComunicacion.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230717\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmTipoDinamica.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230717\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmTipoExhibicion.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230717\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmUsuarios.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230717\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Properties.Resources.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230717\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.csproj.GenerateResource.cache
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230717\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.csproj.CoreCompileInputs.cache
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230717\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.csproj.CopyComplete
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230717\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.exe
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230717\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.pdb
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230717 - copia\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.csproj.AssemblyReference.cache
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230717 - copia\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.csproj.SuggestedBindingRedirects.cache
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230717 - copia\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmCargarDescuentoDirecto.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230717 - copia\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmCargarRetroplanning.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230717 - copia\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmCentrosOperacionListaPrecios.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230717 - copia\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmClusters.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230717 - copia\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmCorreosNotificacionDescuento.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230717 - copia\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmDescuentoDirecto.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230717 - copia\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmDescuentosRetroplanning.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230717 - copia\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmEditarCluster.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230717 - copia\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmEditarCorreosNotificacionDescuento.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230717 - copia\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmEditarDescuentoDirecto.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230717 - copia\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmEditarPermiso.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230717 - copia\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmEditarRetroplanning.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230717 - copia\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmEditarRol.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230717 - copia\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmEditarTipoComunicacion.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230717 - copia\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmEditarTipoDinamica.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230717 - copia\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmEditarTipoExhibicion.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230717 - copia\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmEditarUsuario.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230717 - copia\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmNegociadoresSinDescuento.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230717 - copia\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmPermisos.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230717 - copia\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmPpal.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230717 - copia\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmPrecios.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230717 - copia\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmRechazarDescuento.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230717 - copia\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmReporteEstado.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230717 - copia\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmReporteOperaciones.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230717 - copia\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmRetroplanning.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230717 - copia\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmRoles.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230717 - copia\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmSesion.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230717 - copia\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmTipoComunicacion.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230717 - copia\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmTipoDinamica.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230717 - copia\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmTipoExhibicion.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230717 - copia\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmUsuarios.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230717 - copia\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Properties.Resources.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230717 - copia\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.csproj.GenerateResource.cache
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230717 - copia\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.csproj.CoreCompileInputs.cache
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230717 - copia\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.exe
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230717 - copia\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.pdb
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230717 - copia\PlanAcuerdoComercial\bin\Debug\PlanAcuerdoComercial.exe.config
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230717 - copia\PlanAcuerdoComercial\bin\Debug\PlanAcuerdoComercial.exe
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230717 - copia\PlanAcuerdoComercial\bin\Debug\PlanAcuerdoComercial.pdb
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230717 - copia\PlanAcuerdoComercial\bin\Debug\ClosedXML.dll
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230717 - copia\PlanAcuerdoComercial\bin\Debug\DocumentFormat.OpenXml.dll
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230717 - copia\PlanAcuerdoComercial\bin\Debug\ExcelNumberFormat.dll
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230717 - copia\PlanAcuerdoComercial\bin\Debug\ClosedXML.pdb
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230717 - copia\PlanAcuerdoComercial\bin\Debug\ClosedXML.xml
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230717 - copia\PlanAcuerdoComercial\bin\Debug\DocumentFormat.OpenXml.xml
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230717 - copia\PlanAcuerdoComercial\bin\Debug\ExcelNumberFormat.xml
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230717 - copia\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.csproj.CopyComplete
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230721 - copia\PlanAcuerdoComercial\bin\Debug\PlanAccionComercial.exe.config
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230721 - copia\PlanAcuerdoComercial\bin\Debug\PlanAccionComercial.exe
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230721 - copia\PlanAcuerdoComercial\bin\Debug\PlanAccionComercial.pdb
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230721 - copia\PlanAcuerdoComercial\bin\Debug\ClosedXML.dll
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230721 - copia\PlanAcuerdoComercial\bin\Debug\DocumentFormat.OpenXml.dll
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230721 - copia\PlanAcuerdoComercial\bin\Debug\ExcelNumberFormat.dll
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230721 - copia\PlanAcuerdoComercial\bin\Debug\ClosedXML.pdb
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230721 - copia\PlanAcuerdoComercial\bin\Debug\ClosedXML.xml
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230721 - copia\PlanAcuerdoComercial\bin\Debug\DocumentFormat.OpenXml.xml
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230721 - copia\PlanAcuerdoComercial\bin\Debug\ExcelNumberFormat.xml
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230721 - copia\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.csproj.AssemblyReference.cache
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230721 - copia\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.csproj.SuggestedBindingRedirects.cache
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230721 - copia\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmCargarDescuentoDirecto.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230721 - copia\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmCargarRetroplanning.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230721 - copia\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmCentrosOperacionListaPrecios.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230721 - copia\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmClusters.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230721 - copia\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmCorreosNotificacionDescuento.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230721 - copia\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmDescuentoDirecto.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230721 - copia\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmDescuentosRetroplanning.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230721 - copia\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmEditarCluster.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230721 - copia\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmEditarCorreosNotificacionDescuento.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230721 - copia\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmEditarDescuentoDirecto.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230721 - copia\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmEditarPermiso.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230721 - copia\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmEditarRetroplanning.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230721 - copia\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmEditarRol.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230721 - copia\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmEditarTipoComunicacion.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230721 - copia\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmEditarTipoDinamica.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230721 - copia\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmEditarTipoExhibicion.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230721 - copia\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmEditarUsuario.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230721 - copia\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmNegociadoresSinDescuento.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230721 - copia\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmPermisos.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230721 - copia\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmPpal.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230721 - copia\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmPrecios.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230721 - copia\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmRechazarDescuento.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230721 - copia\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmReporteEstado.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230721 - copia\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmReporteOperaciones.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230721 - copia\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmRetroplanning.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230721 - copia\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmRoles.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230721 - copia\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmSesion.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230721 - copia\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmTipoComunicacion.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230721 - copia\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmTipoDinamica.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230721 - copia\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmTipoExhibicion.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230721 - copia\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Forms.FrmUsuarios.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230721 - copia\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.Properties.Resources.resources
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230721 - copia\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.csproj.GenerateResource.cache
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230721 - copia\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.csproj.CoreCompileInputs.cache
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230721 - copia\PlanAcuerdoComercial\obj\Debug\PlanAcuerdoComercial.csproj.CopyComplete
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230721 - copia\PlanAcuerdoComercial\obj\Debug\PlanAccionComercial.exe
+E:\Desktop\PROYECTOS\VERSIONES ACT\NUBE\PAC\PlanAcuerdoComercial_20230721 - copia\PlanAcuerdoComercial\obj\Debug\PlanAccionComercial.pdb
