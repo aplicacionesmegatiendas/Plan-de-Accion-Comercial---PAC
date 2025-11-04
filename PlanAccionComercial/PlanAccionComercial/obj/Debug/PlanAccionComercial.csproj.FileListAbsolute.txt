@@ -1226,4 +1226,3 @@ E:\PROYECTOS GIT\PAC\PlanAccionComercial\PlanAccionComercial\obj\Debug\PlanAccio
 E:\PROYECTOS GIT\PAC\PlanAccionComercial\PlanAccionComercial\obj\Debug\PlanAcci.2C4A3B2F.Up2Date
 E:\PROYECTOS GIT\PAC\PlanAccionComercial\PlanAccionComercial\obj\Debug\PlanAccionComercial.exe
 E:\PROYECTOS GIT\PAC\PlanAccionComercial\PlanAccionComercial\obj\Debug\PlanAccionComercial.pdb
-E:\PROYECTOS GIT\PAC\PlanAccionComercial\PlanAccionComercial\obj\Debug\PlanAccionComercial.exe.config

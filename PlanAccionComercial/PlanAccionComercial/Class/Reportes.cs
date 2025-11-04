@@ -752,7 +752,6 @@ namespace PlanAccionComercial.Class
 							f17_consecutivo={consecutivo}
 							and f19_ind_regional_cluster = 1
 							and f19_rechazado=0
-							
 						union
 						select distinct
 								f19_item,
@@ -1046,6 +1045,8 @@ namespace PlanAccionComercial.Class
 				conn.Open();
 				SqlCommand cmd = conn.CreateCommand();
 				cmd.CommandText = SQL;
+				cmd.CommandTimeout = 600;
+				//cmd.Parameters.AddWithValue("@consecutivo",consecutivo);
 				//cmd.CommandType = CommandType.Text;
 				//cmd.CommandTimeout = 1200;
 				//SqlParameter consecutivo_param = new SqlParameter("@consecutivo", SqlDbType.VarChar, 50);

@@ -186,34 +186,33 @@ namespace PlanAccionComercial.Class
 		public List<object[]> ObtenerDatosItemCo(string item_ref, string id_instalacion)
 		{
 			string SQL = $@"select
-								f120_id,
-								dbo.F_GENERICO_HALLAR_PREC_VTA(1, @id_lista_precios, ie.f121_rowid, GETDATE(), f131_id_unidad_medida) precio,
-								convert(decimal(18,2), round(dbo.F_GENERICO_HALLAR_PREC_VTA(1, @id_lista_precios, ie.f121_rowid, GETDATE(), f131_id_unidad_medida)/
-								(case
-									when
-										len(rtrim(dbo.F_GENERICO_HALLAR_MOVTO_ENT(f120_id_cia, isnull(f120_rowid_movto_entidad, 0), '001', 'FACTOR', 3))) > 0
-									then
-										cast(dbo.F_GENERICO_HALLAR_MOVTO_ENT(f120_id_cia, isnull(f120_rowid_movto_entidad, 0), '001', 'FACTOR', 3) as decimal(18, 2))
-									else 1
-									end),2,1)) pum,
-								f132_cant_existencia_1 existencia,
-									(case
-									when
+							f120_id,
+							dbo.F_GENERICO_HALLAR_PREC_VTA(1, @id_lista_precios, ie.f121_rowid, GETDATE(), f131_id_unidad_medida) precio,
+							convert(decimal(18,2), round(dbo.F_GENERICO_HALLAR_PREC_VTA(1, @id_lista_precios, ie.f121_rowid, GETDATE(), f131_id_unidad_medida)/
+							(case
+								when
 									len(rtrim(dbo.F_GENERICO_HALLAR_MOVTO_ENT(f120_id_cia, isnull(f120_rowid_movto_entidad, 0), '001', 'FACTOR', 3))) > 0
-									then
+								then
 									cast(dbo.F_GENERICO_HALLAR_MOVTO_ENT(f120_id_cia, isnull(f120_rowid_movto_entidad, 0), '001', 'FACTOR', 3) as decimal(18, 2))
-									else 1
-									end) factor,
-								f132_id_instalacion
-							from
-								t120_mc_items
-								inner join t121_mc_items_extensiones ie on ie.f121_id_cia = f120_id_cia and ie.f121_rowid_item = f120_rowid
-								inner join t132_mc_items_instalacion on f132_id_cia=f121_id_cia and f132_rowid_item_ext=f121_rowid
-								left join t131_mc_items_barras on f131_id_cia=f121_id_cia and f131_rowid_item_ext=f121_rowid and f131_id=f121_id_barras_principal
-							where
-								f120_id_cia=1
-								and f120_id=@id
-								and f132_id_instalacion =@id_instalacion";
+							else 1
+							end),2,1)) pum,
+							isnull(f132_cant_existencia_1,0) existencia,
+							(case
+								when
+									len(rtrim(dbo.F_GENERICO_HALLAR_MOVTO_ENT(f120_id_cia, isnull(f120_rowid_movto_entidad, 0), '001', 'FACTOR', 3))) > 0
+								then
+									cast(dbo.F_GENERICO_HALLAR_MOVTO_ENT(f120_id_cia, isnull(f120_rowid_movto_entidad, 0), '001', 'FACTOR', 3) as decimal(18, 2))
+							else 1
+							end) factor,
+							isnull(f132_id_instalacion,@id_instalacion) f132_id_instalacion
+						from
+							t120_mc_items
+							inner join t121_mc_items_extensiones ie on ie.f121_id_cia = f120_id_cia and ie.f121_rowid_item = f120_rowid
+							left outer join t132_mc_items_instalacion on f132_id_cia=f121_id_cia and f132_rowid_item_ext=f121_rowid and f132_id_instalacion =@id_instalacion
+							left join t131_mc_items_barras on f131_id_cia=f121_id_cia and f131_rowid_item_ext=f121_rowid and f131_id=f121_id_barras_principal
+						where
+							f120_id_cia=1
+							and f120_id=@id";
 
 			List<object[]> res = null;
 			try
