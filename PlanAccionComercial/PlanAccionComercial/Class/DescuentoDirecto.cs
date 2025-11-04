@@ -909,7 +909,7 @@ namespace PlanAccionComercial.Class
 
 				SmtpServer.Port = puerto;
 				SmtpServer.Credentials = new System.Net.NetworkCredential(from, pwd);
-				SmtpServer.EnableSsl = true;
+				SmtpServer.EnableSsl = false; //Para gmail true;
 
 				ServicePointManager.ServerCertificateValidationCallback +=
 							  delegate (
